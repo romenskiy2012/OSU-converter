@@ -1,7 +1,7 @@
 import os
 from subprocess import call
 #Ubuntu  sudo apt-get install unzip
-#Arch  sudo pacmen -S zip
+#Arch  sudo pacman -S zip
 m2 = 0
 qm1 = input("Путь до папки с картами: ")
 qm2 = input("Путь куда выводить готовое: ")
